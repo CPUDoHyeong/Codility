@@ -11,6 +11,10 @@ public class Solution_1 {
 	 * 
 	 * 이 때 solution 함수의 내용을 작성하시오.
 	 * 
+	 * 아래와 같은 방법은 답은 나오나
+	 * 배열이 길어질수록 시간복잡도가 커지는 단점이 있다.
+	 * 즉 효율성은 부족.
+	 * 
 	 */
 	public static void main(String[] args) {
 		int[] input = {1, 2, 3, 4};
