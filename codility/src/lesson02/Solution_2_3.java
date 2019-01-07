@@ -1,4 +1,4 @@
-package lesson2;
+package lesson02;
 
 public class Solution_2_3 {
 

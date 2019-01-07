@@ -1,4 +1,4 @@
-package lesson3;
+package lesson03;
 
 public class FlogJmp {
 	
@@ -17,7 +17,7 @@ public class FlogJmp {
 	 * X와 Y의 차이가 크고 D가 작을 수록 많은 반복을 해야하는 단점이 있다.
 	 * 하지만 도착지점에서 출발지점을 뺀 거리를 점프거리로 나눈다면 그 몫이 최소의 점프 횟수가 된다
 	 * 단, 정확히 나누어 떨어질 때와 나머지가 있을 때를 구분해야 하므로 
-	 * if else 문을 사용하여 처리했다.
+	 * if else 문을 사용하여 처리한다.
 	 * 
 	 */
 	public int solution(int X, int Y, int D) {

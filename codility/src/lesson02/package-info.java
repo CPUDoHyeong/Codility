@@ -5,4 +5,4 @@
  * @author 도형
  *
  */
-package lesson2;
+package lesson02;
